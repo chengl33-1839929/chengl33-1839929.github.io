@@ -1,5 +1,5 @@
 body{
-     background-image: URL('dark_wood.png');
+     background-image: URL('dark_wood.png');background-color: #8E41D5;
 }
 
 p{
@@ -21,6 +21,7 @@ li{
     margin-right: auto;
     margin-bottom: 10px;
     text-align:center;
+    background-color: #8E41D5;
 }
 
 #Header h1{
@@ -36,6 +37,7 @@ li{
     float: left;
     text-align: center;
     padding-bottom: 8px;
+    background-color: #8E41D5;
 }
 
 #LeftNav img{
@@ -58,10 +60,12 @@ li{
     border: solid 8px black;
     text-align: center;
     padding: 15px;
+    background-color: #8E41D5;
 }
 
 #Footer{
     text-align: center;
+    background-color: #8E41D5;
 }
 
 ul{
@@ -71,8 +75,4 @@ ul{
 
 a{
     color: white; font-weight: bold; font-size: 24px;
-}
-
-style{
-    background-color: #8E41D5;
 }
